@@ -1,59 +1,66 @@
-Here's an optimized, fully functional version with reliable elements that will display properly on all platforms:
+Here's the complete, optimized README.md code with all working elements that will display perfectly on GitHub:
 
-```markdown
+
 # 🚀 **Prashant Kumar Churasiya**  
-### **Full-Stack Architect | Blockchain Developer | Web3 Pioneer**
+#### **Full-Stack Developer | Blockchain Engineer | Web3 Architect**
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=26&pause=1000&color=00FF00&center=true&width=800&lines=console.log(%22Building+scalable+systems+with+blockchain%22);System.out.println(%22Secure+%26+High+Performance+Solutions%22);print(%22From+Backend+to+Blockchain%22)" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=00FF00&width=500&lines=Building+scalable+web+solutions;Crafting+secure+smart+contracts;Developing+decentralized+systems" alt="Typing Animation" />
 </div>
 
 ---
 
-## 🎯 **About Me**
+## 🧑‍💻 **About Me**
 
-```javascript
+
 const prashant = {
-  expertise: ["Backend Architecture", "Smart Contracts", "Web3"],
-  tech: ["Laravel", "Node.js", "React", "Solidity"],
-  philosophy: "Build systems that outlast trends",
-  funFact: "Debug production issues while gaming"
+  code: ["PHP", "JavaScript", "Solidity", "Python"],
+  frameworks: ["Laravel", "React", "Node.js", "Hardhat"],
+  databases: ["MongoDB", "PostgreSQL", "MySQL"],
+  architecture: ["Microservices", "Blockchain", "REST APIs"],
+  currentFocus: "Building decentralized finance applications",
+  funFact: "Can debug while playing Call of Duty"
 };
-```
 
----
 
-## ⚡ **Tech Stack**
+
+## 🛠 **Technical Arsenal**
 
 <div align="center">
 
-### **Core Technologies**
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+### **Frontend Development**
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### **Backend Development**
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 
-### **Blockchain**
+### **Blockchain & Web3**
 ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
 ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
-![Hardhat](https://img.shields.io/badge/Hardhat-FFF100?style=for-the-badge&logoColor=black)
+![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3dotjs&logoColor=white)
 
-### **Databases**
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+### **DevOps & Cloud**
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
 </div>
 
 ---
 
-## 📊 **GitHub Stats**
+## 📈 **GitHub Analytics**
 
 <div align="center">
   
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=pra8953&show_icons=true&theme=dark&hide_border=true" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=pra8953&theme=dark&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=pra8953&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" />
   
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pra8953&layout=compact&theme=dark&hide_border=true" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=pra8953&theme=dark&hide_border=true" alt="GitHub Streak" />
+  
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pra8953&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
 
 </div>
 
@@ -61,22 +68,23 @@ const prashant = {
 
 ## 🏆 **Featured Projects**
 
-| Project | Description | Tech Used |
-|---------|-------------|-----------|
-| [DeFi Protocol](https://github.com/pra8953) | Decentralized lending platform | Solidity, Hardhat |
-| [AI CRM](https://github.com/pra8953) | Smart sales prediction system | Laravel, TensorFlow |
-| [NFT Marketplace](https://github.com/pra8953) | Gas-efficient trading | React, IPFS |
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| **[DeFi Protocol](https://github.com/pra8953)** | Decentralized lending platform | Solidity, Hardhat, React |
+| **[E-Commerce API](https://github.com/pra8953)** | High-performance backend | Laravel, MySQL, Redis |
+| **[NFT Marketplace](https://github.com/pra8953)** | Gas-efficient trading platform | Next.js, IPFS, Ethers.js |
 
 ---
 
-## 🌐 **Connect With Me**
+## 🤝 **Let's Connect**
 
 <div align="center">
   
   [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://pra8953.github.io/Portfolio_prashant/)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prashant-kumar-chaurasiya-539b84294/)
   [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/pkerraman900)
-  
+  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pra8953)
+
 </div>
 
 ---
@@ -85,19 +93,17 @@ const prashant = {
 
 <div align="center">
   
-  ![Snake Animation](https://github.com/pra8953/pra8953/blob/output/github-contribution-grid-snake.svg)
+  ![Contribution Snake](https://github.com/pra8953/pra8953/blob/output/github-contribution-grid-snake.svg)
   
-  ![Jokes](https://readme-jokes.vercel.app/api?hideBorder&theme=dark)
+  ![Random Dev Joke](https://readme-jokes.vercel.app/api?hideBorder&theme=dark)
 
 </div>
 
 ---
 
-> "First they ignore you, then they laugh at you, then they fight you, then you win."  
-> **- Mahatma Gandhi**
+> "The best way to predict the future is to invent it."  
+> **- Alan Kay**
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=pra8953&label=Profile+Views&color=blue&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=pra8953&label=Profile+Views&color=blueviolet&style=flat" alt="Profile views counter" />
 </div>
-```
-
